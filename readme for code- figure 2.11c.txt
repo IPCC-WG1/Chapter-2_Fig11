@@ -21,7 +21,7 @@
 #  License: © British Crown Copyright 2021, Met Office, BSD 3-Clause https://opensource.org/licenses/BSD-3-Clause
 #
 # ----------------------------------------------------------------------------------------------------
-# How to cite:
+# How to cite: https://doi.org/10.5281/zenodo.6352182
 # When citing this code, please include both the code citation and the following citation for the related report component:
 ########################################################################
 
