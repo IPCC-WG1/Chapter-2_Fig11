@@ -7,7 +7,7 @@
 # --------------------------------------------------------------------------------------------------------------------
 #
 # - Code functionality: This script generates a plot (Figure 2.11c lower panel) of annual and decadal-mean values of global mean temperature from multiple data sets, overlaid with HadCRUT uncertainty bounds.
-# - Input data: The input data used are archived in a separate data file (insert link to CEDA)
+# - Input data: The input data used are archived in a separate data file (https://catalogue.ceda.ac.uk/uuid/b953c9c8b41d4339b2a0a80fdc3cb840)
 # - Output variables: The code plots the figure as in the report
 #
 # ----------------------------------------------------------------------------------------------------
